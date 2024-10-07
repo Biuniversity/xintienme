@@ -1,0 +1,45 @@
+
+body {
+   
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;   
+    margin: 0;
+    background: whitesmoke;
+}
+h1{
+    color: red;
+    text-align: center;
+    font-size: 3em;
+}
+
+img.qr{
+    display: flex;
+    margin: auto;
+    width: 200px;
+    height: 400px;
+}
+img.gif1{
+    border-style: solid;
+     display: flex;
+     justify-items: center;
+    margin: auto;
+    border-radius: 30px;
+    height: 150px;
+    width: 150px ;
+}
+img.gif2{
+    border-style: solid;
+    display: flex;
+    justify-items: center;
+   margin: auto;
+    border-radius: 30px;
+
+    height: 150px;
+    width: 150px ;
+}
+.trangtri{
+    padding:0px 100px;
+    justify-content: center;
+    display: flex;
+}
